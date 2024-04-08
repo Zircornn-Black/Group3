@@ -1,4 +1,4 @@
-# Group3
+# Group3 - House Sales in King County, USA - Multiple Regression Model
 **Introduction**
 The objective of this project is to develop a linear regression model for the House Sales in King County, USA dataset. The purpose of regression analysis is to determine if a set of predictor variables effectively predicts an outcome variable and to identify which variables significantly influence the outcome variable.
 
@@ -53,6 +53,7 @@ These objectives leverage data analysis and regression modeling to provide insig
 
 **Housing Challenges**
 >Housing Affordability: Rising housing costs pose challenges for low and middle-income families.
+
 >Shortage of Housing Units: Intense competition among buyers due to a shortage of housing units.
 
 >Traffic Congestion: Heavy traffic congestion in urban areas impacts commutes and accessibility.
