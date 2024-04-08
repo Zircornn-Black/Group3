@@ -20,7 +20,9 @@ Generate plots to visualize the predicted line and assess the model's validity.
 Verify the model using least mean square and least squares with various data.
 
 **Overview and Background Information**
+
 **Location and Population**
+
 King County is located in the western part of Washington, USA and is the most populous county in the state.
 The county is home to approximately 2.3 million residents, with two-thirds residing in the suburbs.
 
