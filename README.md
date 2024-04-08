@@ -42,6 +42,7 @@ Diverse Buyers: Catering to first-time homebuyers, families, young professionals
 Tech Influence: The presence of tech giants impacts the demand for upscale, modern homes.
 
 **Analysis Objectives**
+
 The analysis on house sales in King County aims to achieve the following objectives:
 
 Identify key features strongly correlated with price.
