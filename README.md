@@ -54,13 +54,19 @@ These objectives leverage data analysis and regression modeling to provide insig
 **Housing Challenges**
 >Housing Affordability: Rising housing costs pose challenges for low and middle-income families.
 >Shortage of Housing Units: Intense competition among buyers due to a shortage of housing units.
+
 >Traffic Congestion: Heavy traffic congestion in urban areas impacts commutes and accessibility.
+
 >Climate Change Challenges: Rising sea levels and extreme weather events pose challenges for waterfront properties.
 
 **Solutions**
 >Proper Urban Planning: Investment in infrastructure and efficient public transportation to improve connectivity.
+
 >Government Initiatives: Subsidy programs, partnerships with developers, and tax credits to incentivize affordable housing.
+
 >Increasing Housing Supply: Streamlining permitting processes and zoning regulations to facilitate new housing construction.
+
 >Climate Change Mitigation: Promoting green building practices and implementing climate-resilient design standards.
+
 >By addressing these challenges and implementing solutions, this analysis aims to contribute to informed decision-making in the housing market in King County.
 
