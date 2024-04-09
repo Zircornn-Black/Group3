@@ -1,9 +1,9 @@
 # Group3 - House Sales in King County, USA - Multiple Regression Model
-**Introduction**
+#**Introduction**
 
-The objective of this project is to develop a linear regression model for the House Sales in King County, USA dataset on this repository as kc_house_data.csv. The purpose of regression analysis is to determine if a set of predictor variables effectively predicts an outcome variable and to identify which variables significantly influence the outcome variable.
+The objective of this project is to develop a linear regression model for the House Sales in King County, USA dataset on this repository as kc_house_data.csv . The purpose of regression analysis is to determine if a set of predictor variables effectively predicts an outcome variable and to identify which variables significantly influence the outcome variable.
 
-Linear Regression Analysis involves three stages: analyzing data correlation and directionality, estimating the model by fitting the line, and evaluating the model's validity and usefulness.
+Regression Analysis involves three stages: analyzing data correlation and directionality, estimating the model by fitting the line, and evaluating the model's validity and usefulness.
 
 **Stage 1: Data Preprocessing and EDA**
 Import the dataset and perform data preprocessing, including handling null values and changing data types.
@@ -19,7 +19,7 @@ Initialize the models and create methods for training the data.
 Generate plots to visualize the predicted line and assess the model's validity.
 Verify the model using least mean square and least squares with various data.
 
-**Overview and Background Information**
+#**Overview and Background Information**
 
 **Location and Population**
 
@@ -43,7 +43,7 @@ Townhouses and Condominiums: Popular in urban areas like Seattle, providing affo
 Diverse Buyers: Catering to first-time homebuyers, families, young professionals, and retirees.
 Tech Influence: The presence of tech giants impacts the demand for upscale, modern homes.
 
-**Analysis Objectives**
+#**Analysis Objectives**
 
 The analysis on house sales in King County aims to achieve the following objectives:
 
@@ -53,7 +53,7 @@ Analyze how price correlates with the condition and grade of the houses.
 Explore the relationship between price and home features such as bedrooms, bathrooms, and location.
 These objectives leverage data analysis and regression modeling to provide insights and recommendations for homeowners and real estate agencies, aiding in informed investment decisions.
 
-**Business Understanding**
+#**Business Understanding**
 
 **Housing Challenges**
 >Housing Affordability: Rising housing costs pose challenges for low and middle-income families.
