@@ -1,7 +1,7 @@
 # Group3 - House Sales in King County, USA - Multiple Regression Model
 **Introduction**
 
-The objective of this project is to develop a linear regression model for the House Sales in King County, USA dataset. The purpose of regression analysis is to determine if a set of predictor variables effectively predicts an outcome variable and to identify which variables significantly influence the outcome variable.
+The objective of this project is to develop a linear regression model for the House Sales in King County, USA dataset on this repository as kc_house_data.csv. The purpose of regression analysis is to determine if a set of predictor variables effectively predicts an outcome variable and to identify which variables significantly influence the outcome variable.
 
 Linear Regression Analysis involves three stages: analyzing data correlation and directionality, estimating the model by fitting the line, and evaluating the model's validity and usefulness.
 
