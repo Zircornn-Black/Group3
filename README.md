@@ -42,6 +42,11 @@ Townhouses and Condominiums: Popular in urban areas like Seattle, providing affo
 **Clientele**
 Diverse Buyers: Catering to first-time homebuyers, families, young professionals, and retirees.
 Tech Influence: The presence of tech giants impacts the demand for upscale, modern homes.
+
+**Summary**
+From the following summary, we can see the average prices of the houses per year and the population density based on where the houses are located alongside the prices they fetch based on the year built. 
+As expected, the newest houses fetch the highest prices.
+
 ![Dashboard 1](https://github.com/Zircornn-Black/Group3/assets/158102409/2b280b45-f575-41a9-8253-32a437355546)
 
 
@@ -56,6 +61,34 @@ Explore the relationship between price and home features such as bedrooms, bathr
 These objectives leverage data analysis and regression modeling to provide insights and recommendations for homeowners and real estate agencies, aiding in informed investment decisions.
 
 #**Business Understanding**
+
+Informed Decision-Making: Our predictive model uses various house features, and locational data to empower homebuyers with insights for informed purchasing decisions.
+
+Key Influencing Factors: Understanding market trends, structral impacts, and locational variables is essential for informed homebuying decisions.
+
+Maximizing Investments: Thorough research, predictive modeling, and guidance from professionals are crucial for optimizing investment potential in real estate.
+
+**Objectives**
+What features are the best predictors of house prices, and how might they impact their decision-making?
+How can they optimize their investment potential in the real estate market?
+**Modelling**
+We used three main Regression models i.e Simple Linear Regression, Multiple Linear Regression and Polynomial Regression.
+
+**Findings**
+The polynomial model did the best in predicting house prices.
+The square footage of a house is significantly related to its price, as evidenced by the linear regression model which accounts for 49.3% of the variance in housing prices, highlighting its importance as a factor in the housing market.
+
+In addition, when buying a house, the buyer should consider the
+grade, location, age, and if the property has a waterfront.
+
+**Recommendations**
+Potential buyers should prioritize square footage when considering a house purchase. 
+However, it's essential to weigh other factors such as waterfront access, views, and the age of the property, as demonstrated by the multiple linear regression model.
+
+**Next steps**
+We need to explore alternative regression techniques to get improve the significance of the models and provide deeper insights from the data.
+
+This can help us go through the following in details and give potential solutions.
 
 **Housing Challenges**
 >Housing Affordability: Rising housing costs pose challenges for low and middle-income families.
