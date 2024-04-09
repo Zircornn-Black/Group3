@@ -42,6 +42,8 @@ Townhouses and Condominiums: Popular in urban areas like Seattle, providing affo
 **Clientele**
 Diverse Buyers: Catering to first-time homebuyers, families, young professionals, and retirees.
 Tech Influence: The presence of tech giants impacts the demand for upscale, modern homes.
+![Dashboard 1](https://github.com/Zircornn-Black/Group3/assets/158102409/2b280b45-f575-41a9-8253-32a437355546)
+
 
 #**Analysis Objectives**
 
